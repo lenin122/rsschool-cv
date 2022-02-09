@@ -68,4 +68,4 @@ function getParticipants(handshakes) {
 Ended BSU in 2007, Faculty of applied Mathematics and Informatics
 
 ### English
-Never did English Tests to get my level. But from school, I can speak frequently and understand my companion.
+Never did English Tests to get my knowledge level. But from school, I can speak frequently and understand my companion.
